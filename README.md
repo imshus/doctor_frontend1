@@ -1,4 +1,4 @@
-# Doctor Appointment Summary System  
+# Doctor Appointment System  
 
 ## Introduction  
 The **Doctor Appointment Summary System** is a streamlined application for managing doctor-patient interactions. It allows users to document and review essential details such as diagnoses, prescriptions, and follow-up schedules. This system enhances patient care by ensuring clear communication and easy access to appointment summaries.  
