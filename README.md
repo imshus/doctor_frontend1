@@ -1,7 +1,3 @@
-Here’s an updated **README.md** file incorporating your provided links:
-
----
-
 # Doctor Appointment Summary System  
 
 ## Introduction  
